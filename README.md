@@ -1,4 +1,4 @@
-[](https://komarev.com/ghpvc/?username=samadeep)
+![](https://komarev.com/ghpvc/?username=samadeep)
 # About Me:
 Software Development | Distributed Systems | Federated Learning
 
